@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96876242-47f8-4e51-9c30-5f3db9907aa9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/batch/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/batch/test.txt" afterDir="false" />
     </list>
@@ -43,7 +42,21 @@
       <option name="project" value="LOCAL" />
       <updated>1586101462467</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit">
+      <created>1586102692392</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586102692392</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit">
+      <created>1586102826731</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586102826731</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -51,13 +64,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="473" y="99" key="CommitChangelistDialog2" timestamp="1586101461010">
+    <state x="473" y="99" key="CommitChangelistDialog2" timestamp="1586102826425">
       <screen x="0" y="23" width="1680" height="954" />
     </state>
-    <state x="473" y="99" key="CommitChangelistDialog2/0.23.1680.954@0.23.1680.954" timestamp="1586101461010" />
-    <state x="440" y="236" key="Vcs.Push.Dialog.v2" timestamp="1586101466779">
+    <state x="473" y="99" key="CommitChangelistDialog2/0.23.1680.954@0.23.1680.954" timestamp="1586102826425" />
+    <state x="440" y="236" key="Vcs.Push.Dialog.v2" timestamp="1586102830062">
       <screen x="0" y="23" width="1680" height="954" />
     </state>
-    <state x="440" y="236" key="Vcs.Push.Dialog.v2/0.23.1680.954@0.23.1680.954" timestamp="1586101466779" />
+    <state x="440" y="236" key="Vcs.Push.Dialog.v2/0.23.1680.954@0.23.1680.954" timestamp="1586102830062" />
   </component>
 </project>
